@@ -1,0 +1,26 @@
+// table,
+// th,
+// td {
+//     border: 1px solid black;
+//     color: blue;
+// }
+// .content table {
+//     border: 2px solid brown !important;
+// }
+// table {
+//     border-collapse: collapse !important;
+// }
+// .content,
+// table,
+// th,
+// td {
+//     border: 1px solid black !important;
+// }
+.border tbody {
+    color: brown;
+    border: 1px solid black !important;
+}
+
+p.header {
+    color: rgb(58, 50, 126) !important;
+}
